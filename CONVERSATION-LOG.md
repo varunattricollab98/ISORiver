@@ -95,3 +95,28 @@ Ye poori conversation ka summary hai — kya-kya discuss hua, kya decide hua, ka
 - Then: next article. Ideas — macOS Tahoe problems (fresh), how to fix slow mac (1300 vol), mac
   running slow, windows 11 100% disk usage, why is my mac so slow. Also can REFRESH isoriver's old
   ranked how-to posts (fastest traffic).
+
+
+---
+
+## 11. Round-2 Competitor Keyword Research (Sept 2026)
+- Owner ne bola: 20 competitors research karke unke ranking keywords nikaalo, phir Trends/free tools
+  se compare karke best keywords do. Approach A locked (evidence-based candidates, Varun SEMrush verify).
+- Researched all 20 competitors via live SERP. Full doc: `keywords-research/competitor-keyword-research-round-2.md`
+- **Observed ranking clusters:**
+  - MAC: macOS Tahoe running slow (post-update, super fresh), MacBook won't turn on / black screen,
+    Mac won't boot / boot loop / stuck login / question-mark folder (iboysoft-dominant + tool upsell),
+    recover data from non-booting Mac (stellarinfo/iboysoft).
+  - WINDOWS: 100% disk usage (Tier-2 beatable), Wi-Fi not connecting (helpdeskgeek 13 ways),
+    cannot connect to network, start menu/file explorer broken, headphones not detected (technobezz 9),
+    DISM/SFC repair (pureinfotech Sept 2026), 25H2 won't install (microsoft.com dominant = harder).
+  - Winning format everywhere: numbered "N Ways to Fix" + version-specific (25H2/Tahoe 26/2026) +
+    Quick Answer near top + "I tested" personal proof.
+- **Shortlist given to Varun:**
+  - TIER A (write first): macOS Tahoe running slow (post-update angle, no cannibalisation) /
+    Windows 11 100% disk usage (opens Windows cluster) / MacBook won't turn on (high-intent evergreen).
+  - TIER B: Windows 11 not connecting to Wi-Fi / Mac stuck on login-boot loop / repair Windows DISM+SFC.
+  - TIER C quick wins: cannot connect to network / headphones not detected / 25H2 won't install (harder).
+- **AVOID:** generic "fix slow mac"/"mac running slow" (cannibalises Article #1) + any piracy/download angle.
+- **PENDING:** Varun paste SEMrush (Overview + Magic Tool + Questions) for Tier-A shortlist →
+  pick best real numbers → I write full paste-ready article.
