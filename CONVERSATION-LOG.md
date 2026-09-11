@@ -120,3 +120,25 @@ Ye poori conversation ka summary hai — kya-kya discuss hua, kya decide hua, ka
 - **AVOID:** generic "fix slow mac"/"mac running slow" (cannibalises Article #1) + any piracy/download angle.
 - **PENDING:** Varun paste SEMrush (Overview + Magic Tool + Questions) for Tier-A shortlist →
   pick best real numbers → I write full paste-ready article.
+
+
+---
+
+## 12. Article #2 Written — "MacBook Won't Turn On" (Sept 2026)
+- From Round-2 shortlist, picked **macbook won't turn on** (SEMrush verified: Vol 6,600, KD 30,
+  Relevance 100, Informational, CPC $0.04). Agent decided everything (Varun: "tu SEO expert hai, tu dekh").
+- **SERP:** AI Overview + video carousel + PAA. Weak SERP (Reddit, Facebook, Back Market ranking) =
+  gap = winnable. Only Apple Support is Tier-1. RefurbMe "10 Fixes 2026" cited in AI Overview = target to beat.
+- **Article:** `articles/macbook-wont-turn-on.md`
+  - Title: "MacBook Won't Turn On? 10 Fixes That Actually Work (2026)" (beats RefurbMe, keyword at start + year)
+  - Slug: macbook-wont-turn-on | Category: Mac OS | Focus KW: macbook won't turn on
+  - Quick Answer box (GEO) + "Why won't it turn on" (extractable) + 10 numbered fixes
+    (power/cable → force restart 10s → 3-hr drained-battery charge → unplug accessories → display/Caps Lock test
+     → SMC reset [Intel only] → Recovery Mode → First Aid → reinstall macOS → DFU revive → Apple).
+  - Symptom sub-sections capturing secondary KWs: black screen (590 vol), won't turn on or charge (320),
+    MacBook Air won't turn on (1,000). Comparison table (symptom→cause→fix). 8 FAQs from Questions data.
+  - 7 screenshot markers + alt text, Rank Math fields block, internal link to speed-up-mac (cluster).
+  - Steps verified vs Apple Support (Apple Silicon power-hold "Loading startup options"; DFU back-left USB-C, Revive first).
+- **PENDING (Varun):** paste into Gutenberg block-by-block, capture the 7 screenshots + add alt text,
+  set Rank Math fields, add 2nd internal link, remove Download Now button, no manual TOC, publish → GSC index.
+- Article #1 (speed-up-mac) still has its own pending publish tasks from section 10.
