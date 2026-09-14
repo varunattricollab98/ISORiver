@@ -142,3 +142,33 @@ Ye poori conversation ka summary hai — kya-kya discuss hua, kya decide hua, ka
 - **PENDING (Varun):** paste into Gutenberg block-by-block, capture the 7 screenshots + add alt text,
   set Rank Math fields, add 2nd internal link, remove Download Now button, no manual TOC, publish → GSC index.
 - Article #1 (speed-up-mac) still has its own pending publish tasks from section 10.
+
+
+---
+
+## 13. Article #3 Written — "100 Percent Disk Usage in Windows 11" (Sept 2026)
+- From Round-2 shortlist Tier A. Opens the FIRST Windows cluster (Articles #1 & #2 were Mac).
+- SEMrush: initially checked "windows 11 100 disk usage" (Vol 170, KD 30). Magic Tool revealed better pick:
+  **100 percent disk usage windows 11** = Vol 320, KD 22 (green/easy), Relevance 86, Informational = focus KW.
+  Cluster is big: "windows disk usage problems" topic 11.7K, "disk space issues" 9K, "windows 11 disk usage" 8.3K.
+- Volume concern raised by Varun (exact-match only 170-320). Explained: article ranks for whole 11.7K cluster,
+  not one exact keyword. Worth writing (low KD, evergreen, opens Windows side). Realistic target page-1 lower half.
+- **SERP:** Microsoft #1 & #3 (Tier-1 stays #1), Reddit #2, HP #4, iobit #5, avg #6, YouTube #7, Quora #8-9,
+  vividrepairs #10 (AS 34). Gap in positions 5-10 = winnable. AI Overview + video carousel present.
+- **Article:** `articles/100-percent-disk-usage-windows-11.md` (metadata) + full HTML delivered in chat.
+  - Title: "100 Percent Disk Usage in Windows 11? 12 Easy Fixes (2026)" | Slug: 100-percent-disk-usage-windows-11
+  - Focus KW: 100 percent disk usage windows 11 | Category: Windows
+  - Quick Answer box + "Why is my disk at 100%" + 12 numbered fixes (Task Manager diagnose, restart,
+    disable SysMain, disable Windows Search, CHKDSK, SFC/DISM, update storage drivers, StorAHCI MSI registry tweak,
+    disable startup apps, adjust pagefile, malware scan, HDD->SSD) + comparison table + 7 FAQs.
+  - 6 screenshot markers + alt text. Steps verified vs Microsoft answers + Tier-2 (positioniseverything, vividrepairs, kapilarya).
+- **Workflow update:** From Article #2 onward, per Varun — write the FULL article directly in CHAT (H2/H3/table/steps),
+  give paste-ready HTML for Gutenberg Code editor; GitHub is only for backup/storage. Classic Editor block is fine
+  (HTML comments show as grey placeholder text in Visual editor — Varun deletes them after adding images).
+- **Bonus spotted:** Varun shared an AskTheMoneyCoach guest-post/sponsored-post guidelines page (finance niche) —
+  potential backlink avenue but that's a DIFFERENT site's niche; not directly relevant to isoriver (tech). Parked.
+- **PENDING (Varun):** paste HTML, capture 6 screenshots + alt, set Rank Math fields, Category=Windows,
+  featured image + alt, remove Download Now button, no manual TOC, publish -> GSC index.
+- Article #2 (macbook-wont-turn-on) was being published: HTML pasted (became Classic block), title + power word "Easy"
+  added, 7 images added, Rank Math mostly green (ignored keyword-density & Content-AI upsell warnings per philosophy).
+  Still to finish: delete leftover grey placeholder text, featured image alt, Category, Download button, publish, GSC.
